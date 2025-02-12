@@ -6,8 +6,7 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Git Demo with .NET!");
-            Console.WriteLine("This is a simple .NET console application.");
+            Console.WriteLine("Welcome to Git with .NET and Visual Studio!");
         }
     }
 }
